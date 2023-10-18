@@ -1,6 +1,5 @@
 require 'gosu'
-require_relative 'start_page'
-require_relative 'game_window'
+require_relative 'ball'
 require_relative 'paddle'
 
 
