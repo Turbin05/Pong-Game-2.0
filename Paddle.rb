@@ -1,4 +1,5 @@
 require 'gosu'
+require_relative 'game_object'
 
 class Paddle < GameObject
     WIDTH = 12
